@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Achievements on Matteo Minutti</title>
+    <link>https://minutti.netlify.app/projects/</link>
+    <description>Recent content in My Achievements on Matteo Minutti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://minutti.netlify.app/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Project</title>
+      <link>https://minutti.netlify.app/projects/first-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://minutti.netlify.app/projects/first-project/</guid>
+      <description>When I was 19, me and some friend started a collective business aiming to blow up in the hiphop music scene.
+No, I&amp;rsquo;m not a rapper or something like that, I&amp;rsquo;ve just only had a good idea to manage all our single talents in a single funnel.
+This funnel is Sao Square Corp., our collective name.
+We&amp;rsquo;re just skilled guys with different scopes, and we&amp;rsquo;re tryna to make something big all together; I&amp;rsquo;ve done some job of administration and started my first business as freelance developer, managing alone the website construction</description>
+    </item>
+    
+    <item>
+      <title>My First Job</title>
+      <link>https://minutti.netlify.app/projects/first-job/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://minutti.netlify.app/projects/first-job/</guid>
+      <description>At the age of 21, during my third year at computer engineering and a bit of late exams, I was feeling a little tired of financial status and a little afraid of afraid of burdening my family; Confident in the knowledge that I had managed successfully a website development pipeline (without having any idea what I was doing), Thought I&amp;rsquo;d comparing myself with an enterprise environment in order to understand all mistakes I made.</description>
+    </item>
+    
+    <item>
+      <title>My First Business</title>
+      <link>https://minutti.netlify.app/projects/first-business/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://minutti.netlify.app/projects/first-business/</guid>
+      <description>After a somewhat eventful period, I&amp;rsquo;ve met Mr. Fiorilli that believing in my capabilities at the age of 23 proposes me to co-found a company, in which I would have had the total responsibility for software developments.
+Thus began, on July 18 2019, my adventure as CEO (and also CTO) in SILPH Technologies. In these two years we developed few product and service and many PoC, hired a developer and conquer some important customers onto international panorama, e.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-baseURL                          = "https://minutti.it/"   # Your domain name. Must end with "/"
+baseURL                          = "https://minutti.netlify.app/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
@@ -32,7 +32,8 @@ DefaultContentLanguage           = "en"                    # Default language fo
         dash                     = "XkCAf2wBmhfM38onzqWNcTpbvppAy7nT2L" # DASH Address
         btcImg                   = "/img/btc.gif"          # BTC gif
         dogeImg                  = "/img/doge.gif"         # DOGE gif
-        dashImg                  = "/img/dash.gif"          # BTC gif
+        dashImg                  = "/img/dash.gif"         # DASH gif
+        aboutImg                 = "/img/dev.png"          
     
     [params.projects]
         useTwoColumns            = false                   # Use a layout with two columns instead of three
