@@ -1,2 +1,15 @@
 node_modules
-/node_modules
+LICENSE
+archetypes
+config.toml
+content
+data
+layouts
+netlify.toml
+node_modules
+package-lock.json
+resources
+static
+themes
+# Local Netlify folder
+.netlify
