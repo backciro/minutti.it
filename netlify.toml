@@ -1,0 +1,4 @@
+# Default build settings
+[build]
+  publish = "public"
+  command = "npm install postcss-cli && hugo"
