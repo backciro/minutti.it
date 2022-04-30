@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Le Mie Avventure on Matteo Minutti</title>
-    <link>https://www.minutti.it/it/projects/</link>
+    <link>https://minutti.it/it/projects/</link>
     <description>Recent content in Le Mie Avventure on Matteo Minutti</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language><atom:link href="https://www.minutti.it/it/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language><atom:link href="https://minutti.it/it/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Il Mio Primo Progetto</title>
-      <link>https://www.minutti.it/it/projects/first-project/</link>
+      <link>https://minutti.it/it/projects/first-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.minutti.it/it/projects/first-project/</guid>
+      <guid>https://minutti.it/it/projects/first-project/</guid>
       <description>All&amp;rsquo;età di 19 anni, io e alcuni amici abbiamo avviato un business collettivo mirato a farci diventare qualcuno nella scena musicale italiana.
 No, io non sono un rapper o qualcosa di simile, ho solo avuto un&amp;rsquo;idea di mettere a frutto tutti i nostri singoli talenti in unico collettore.
 Questo collettore è Sao Square Corp., il nome del posto che ci portiamo dentro.</description>
@@ -19,19 +19,19 @@ Questo collettore è Sao Square Corp., il nome del posto che ci portiamo dentro.
     
     <item>
       <title>Il Mio Primo Lavoro</title>
-      <link>https://www.minutti.it/it/projects/first-job/</link>
+      <link>https://minutti.it/it/projects/first-job/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.minutti.it/it/projects/first-job/</guid>
+      <guid>https://minutti.it/it/projects/first-job/</guid>
       <description>A 22 anni, al terzo anno di ingegneria con un po&#39; di esami arretrati, ho iniziato a sentire stretta sia la mia situazione economica sia la necessità di dover gravare economicamente sulla mia famiglia; forte del fatto di aver gestito con successo lo sviluppo di un sito web mediamente complesso (senza avere la minima idea di quello che stessi facendo), ho pensato di confrontarmi con una realtà professionale che di certo mi avrebbe fatto capire gli errori commessi.</description>
     </item>
     
     <item>
       <title>La Mia Prima Società</title>
-      <link>https://www.minutti.it/it/projects/first-business/</link>
+      <link>https://minutti.it/it/projects/first-business/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.minutti.it/it/projects/first-business/</guid>
+      <guid>https://minutti.it/it/projects/first-business/</guid>
       <description>Dopo un periodo un po&#39; movimentato, ho incontrato il dott. Fiorilli che credendo nelle mie potenzialità all&amp;rsquo;età di 23 anni mi propone di aprire una società, nella quale io avrei avuto la totale responsabilità sugli sviluppi dei software proposti.
 Inizia cosí, il 18 Luglio 2019, la mia avventura da Amministratore Delegato in SILPH Technologies. In due anni sviluppiamo molti prodotti e decine di PoC, assumiamo uno sviluppatore e conquisiamo clienti di rilevanza internazionale, qualche esempio:</description>
     </item>
