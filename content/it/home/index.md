@@ -3,4 +3,4 @@ title: "Ciao, sono Matteo"
 headless: true
 ---
 
-e mi piace inventare soluzioni
+e mi piace trovare soluzioni

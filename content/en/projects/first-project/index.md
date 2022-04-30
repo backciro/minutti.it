@@ -1,5 +1,5 @@
 ---
-title: "My First Project"
+title: "My First Indie Project"
 weight: 1
 ---
 

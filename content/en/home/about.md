@@ -4,22 +4,16 @@ image: "dev.png"
 weight: 8
 ---
 
-I'm a Professional Solution Designer, intended to solve all the problems I deal with.
+I'm a Strategic Consultant, intended to help find together the best resolutive path.
 
-Everyday I improve my skills with all these **technologies**:
+I constantly improve my passion playin with all these **technologies**:
 
-* _**Google Cloud Platform**_ for manage all my infrastructures;
-    <!-- - App Engine & Compute Engine -->
-    <!-- - Cloud Function Clusters -->
-* _**Firebase**_ as identity provider for secure client services;
-    <!-- - Firebase Realtime Database -->
-* _**AWS**_ in order to save persistent-redundant copies of my data:
-    - PostgreSQL
-    - Amazon Aurora&reg;
+* **Google Cloud Platform** & **AWS** for manage all my infrastructures;    
 
-* _**node.js**_ for building state-of-art REST or event-driven API, with a few tricks:
-    - Only _**TypeScript**_ Inside. Compile-time typecheck is better than you think! 
-    - _**Typeorm**_ as query builder allow a perfect data sanitization and fraud deterrent...
+* **Angular 12+** & **node.js** for create state-of-art web applications;
+* **mongoDB** as redunded and reliable persistency model;
 
-* **Angular 7+** for create fancy responsive interfaces and powerful PWAs;
-* **Flutter Framework** for design native mobiles app for iOS and Android;
+* **Flutter** & **Firebase** for perfect & native implementations;
+
+
+I daily help all my partners to find and execute the best moves within the ICT sector market, on top of years and years of meticolous scouting and attentions
