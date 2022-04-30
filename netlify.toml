@@ -1,4 +1,4 @@
 # Default build settings
 [build]
+  command = "hugo"
   publish = "public"
-  command = "npm install postcss postcss-cli autoprefixer"
