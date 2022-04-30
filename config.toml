@@ -1,5 +1,6 @@
 DefaultContentLanguage = "en" # Default language for multilingual sites
-baseURL = "https://www.minutti.it/" # Your domain name. Must end with "/"
+baseURL = "http://127.0.0.1:40005/" # Your domain name. Must end with "/"
+# baseURL = "https://www.minutti.it/" # Your domain name. Must end with "/"
 theme = "introduction" 
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
